@@ -486,3 +486,12 @@ background-color: #575F3F;
 #contacto {
     scroll-margin-top: 130px;
 }
+footer a {
+    color: #575F3F;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
